@@ -1,0 +1,9 @@
+Recap:
+DOM
+DOM Tree
+Events
+Event Propagation (Bubbling & capturing)
+stopPropagation()
+Event Delegation
+Dynamic creation (createElement())
+
